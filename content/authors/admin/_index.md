@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:dekunchen26@gmail.com"
 #   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #     icon_pack: fas
 #     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -74,5 +74,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi. I'm a 4th year undergraduate student from the Chinese University of Hong Kong, Shenzhen. Currently, I'm actively applying for Ph.D. positions in the field of Natural Language Processing. Some optional research topics are listed below, but any other relevant direction is also acceptable. Please feel free to contact me for any questions or additional information!
+
 {style="text-align: justify;"}
