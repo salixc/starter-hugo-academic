@@ -1,5 +1,5 @@
 ---
-title: Word-Level Interpretation of ChatGPT Detector Based on Classification Contribution
+title: Word-Level Interpretation of ChatGPT Detector
 summary: Detecting ChatGPT usage is crucial for regulation, but interpreting the process is challenging. We propose a method that shows word contributions to model predictions, enhancing understanding of the detector LLM.
 # tags:
 #   - Demo
