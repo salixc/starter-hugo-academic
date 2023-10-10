@@ -82,9 +82,9 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Intern @ Product Development Department
+          company: Juwan Technology Co., LTD
+          company_url: 'http://www.greatbayit.com/dashboard'
           company_logo: org-x
           location: California
           date_start: '2016-01-01'
