@@ -82,6 +82,18 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+        # 个人项目
+        - title: Word-Level Interpretation of ChatGPT Detector Based on Classification Contribution
+          company: Personal Project
+          company_url: 'https://github.com/salixc/WCC-DekunChen'
+          # company_logo: org-gc
+          location: Shenzhen
+          date_start: '2023-01-15'
+          date_end: '2023-05-15'
+          description: |2-
+              * Proposed a method to interpret the word contribution of ChatGPT detector prediction, considering the information from both the classification process and the transformers.
+              * Intuitively displayed the contribution of each word to the prediction result with high calculation efficiency
+        # 美赛
         - title: 2023 Mathematical Contest in Modeling (Question C)
           company: MCM / ICM
           company_url: 'https://www.contest.comap.com/undergraduate/contests/mcm/contests/2023/results/'
