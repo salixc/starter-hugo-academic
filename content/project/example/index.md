@@ -1,6 +1,6 @@
 ---
 title: Entity Matching
-summary: Imagine searching for hotels from two tourism websites. There should be many same hotels but with slightly different information in names or addresses. So, if we are conducting a big data processing task in the field of tourism, like building a knowledge graph, we are likely to face the problem that entities from different data sources are either same or different. When we need to integrate these data, it is important to find the same entities and remove duplicates.
+summary: When searching for hotels on two tourism websites, you'll often encounter similar hotels with slight variations in names or addresses. This poses a challenge when performing big data tasks in the tourism sector, such as constructing KG. Identifying identical entities and eliminating duplicates becomes crucial during the data integration process.
 # tags:
 #   - Deep Learning
 # date: '2016-04-27T00:00:00Z'
@@ -15,9 +15,9 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: repo
+    name: Code
     url: https://github.com/salixc/Entity_Matching_For_Tourism_Dataset
-url_code: 'https://github.com/salixc/Entity_Matching_For_Tourism_Dataset'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
