@@ -69,22 +69,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        # 科研
+        - title: Knowledge Graph About Tourism
+          company: Research group supervised by Guanying Chen 
           company_url: ''
-          company_logo: org-gc
+          # company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2023-04-06'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Responsible for implementing the Bert + BiLSTM + CRF model for NER task and optimising its performance by making a list of filtered entities.
+              * Conducted entity matching task for multi-source data of attractions, hotels, and other tourism elements, which utilised Chinese words embedding, address segmentation, and Xgboost classification techniques. More details could be found at [link](https://github.com/salixc/Entity_Matching_For_Tourism_Dataset.git).
         # 个人项目
         - title: Word-Level Interpretation of ChatGPT Detector Based on Classification Contribution
-          company: Personal Project
+          company: Personal project
           company_url: 'https://github.com/salixc/WCC-DekunChen'
           # company_logo: org-gc
           location: Shenzhen
