@@ -82,25 +82,25 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        # - title: 2023 Mathematical Contest in Modeling (Question C)
-        #   company: MCM / ICM
-        #   company_url: 'https://www.contest.comap.com/undergraduate/contests/mcm/contests/2023/results/'
-        #   # company_logo: org-gc
-        #   location: America
-        #   date_start: '2023-02-16'
-        #   date_end: '2023-02-20'
-        #   description: |2-
-        #       * Won the Outstanding Winner Award (Top 0.5%).
-        #       * Utilized LSTM, XGBoost, SVM, and other models to solve time series and text classification tasks.
-        #       * Mainly responsible for the implementation and evaluation of various models.
+        - title: 2023 Mathematical Contest in Modeling (Question C)
+          company: MCM / ICM
+          company_url: 'https://www.contest.comap.com/undergraduate/contests/mcm/contests/2023/results/'
+          # company_logo: org-gc
+          location: America
+          date_start: '2023-02-16'
+          date_end: '2023-02-20'
+          description: |2-
+              * Won the Outstanding Winner Award (Top 0.5%).
+              * Utilized LSTM, XGBoost, SVM, and other models to solve time series and text classification tasks.
+              * Mainly responsible for the implementation and evaluation of various models.
         # 巨湾实习
         - title: Intern @ Product Development Department
           company: Juwan Technology Co., LTD
           company_url: 'http://www.greatbayit.com/dashboard'
           # company_logo: juwan
           location: Shenzhen, China
-          date_start: '2022-06'
-          date_end: '2022-09'
+          date_start: '2022-06-06'
+          date_end: '2022-08-31'
           description: |2-
               * Assisted in promoting the development of the company’s technical products.
               * Utilized Selenium frame to collect auction data.
