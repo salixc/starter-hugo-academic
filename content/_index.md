@@ -106,7 +106,7 @@ sections:
               * Utilized Selenium frame to collect auction data.
               * Authored several feasibility study reports and technical tenders.
     design:
-      columns: '3'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
