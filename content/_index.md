@@ -85,7 +85,7 @@ sections:
         - title: Intern @ Product Development Department
           company: Juwan Technology Co., LTD
           company_url: 'http://www.greatbayit.com/dashboard'
-          company_logo: org-x
+          company_logo: juwan
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
