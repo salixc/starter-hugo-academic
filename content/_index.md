@@ -90,7 +90,7 @@ sections:
           date_start: '2023-02-16'
           date_end: '2023-02-20'
           description: |2-
-              * __Won the Outstanding Winner Award (Top 0.5%).__
+              * Won the Outstanding Winner Award (Top 0.5%).
               * Utilized LSTM, XGBoost, SVM, and other models to solve time series and text classification tasks.
               * Mainly responsible for the implementation and evaluation of various models.
         # 巨湾实习
