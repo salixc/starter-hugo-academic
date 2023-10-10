@@ -82,7 +82,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-         - title: 2023 Mathematical Contest in Modeling (Question C)
+        - title: 2023 Mathematical Contest in Modeling (Question C)
           company: MCM / ICM
           company_url: 'https://www.contest.comap.com/undergraduate/contests/mcm/contests/2023/results/'
           # company_logo: org-gc
@@ -102,9 +102,9 @@ sections:
           date_start: '2022-06'
           date_end: '2022-09'
           description: |2-
-            * Assisted in promoting the development of the company’s technical products.
-            * Utilized Selenium frame to collect auction data.
-            * Authored several feasibility study reports and technical tenders.
+              * Assisted in promoting the development of the company’s technical products.
+              * Utilized Selenium frame to collect auction data.
+              * Authored several feasibility study reports and technical tenders.
     design:
       columns: '3'
   - block: accomplishments
