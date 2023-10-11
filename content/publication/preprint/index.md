@@ -2,7 +2,7 @@
 title: "Word-Level Interpretation of ChatGPT Detector Based on Classification Contribution."
 authors:
 - Chen, D.
-- xxx
+- Chen, D.
 date: "2023-04-07T00:00:00Z"
 doi: ""
 
@@ -19,14 +19,14 @@ publication_types: ["conference"]
 publication: "In 2023 *2nd International Conference on Image Processing and Intelligent Information Systems (IPIIS), p. 195*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The ChatGPT detector is considered a necessary task to standardize the use of ChatGPT. Difficulty interpreting the test process and results is a common problem with LLM. Most existing interpreters focus on attention visualization and rarely consider the classification process. This study presents a method to show the contribution of words to model predictions. Specifically, this study considers information from classification weight vectors, semantic vectors, and embedded input word vectors for a more complete interpretation of detector LLM. Three word-level attributes (word length, part of speech and word meaning) are compared with the conclusions of existing literatures to verify our method. Visual samples and analysis process can be found at https://github.com/salixc/WCC-DekunChen.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: Custom Link
@@ -52,8 +52,8 @@ featured: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-# - internal-project
+projects:
+- detector
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
