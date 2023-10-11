@@ -264,17 +264,16 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        If you would like to contact me, feel free to send me an email or just add my WeChat.
+        If you would like to contact me, feel free to send me an email or just add my WeChat (same number with my phone).
       # Contact (add or remove contact options as necessary)
       email: dekunchen26@gmail.com
       phone: 15053212807
-      WeChat: 15053212807
       # appointment_url: 'https://calendly.com'
       address:
-        street: Longcheng
+        street: Longcheng Street
         city: Shenzhen
-        region: Guangdong
-        postcode: '518172'
+        region: Guangdong, China
+        postcode: '(518172)'
         country: China
         country_code: CN
       directions: B402, Muse College, the Chinese University of Hong Kong, Shenzhen
@@ -297,13 +296,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+    #   form:
+    #     provider: netlify
+    #     formspree:
+    #       id:
+    #     netlify:
+    #       # Enable CAPTCHA challenge to reduce spam?
+    #       captcha: false
     design:
       columns: '2'
 ---
