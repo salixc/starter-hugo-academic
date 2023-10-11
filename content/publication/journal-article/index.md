@@ -1,7 +1,7 @@
 ---
 title: "An example journal article"
 authors:
-- admin
+- ddx
 - cdk
 author_notes:
 - "Equal contribution"
