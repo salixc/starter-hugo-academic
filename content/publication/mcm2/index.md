@@ -1,10 +1,13 @@
 ---
-title: "Research on Word Difficulty Classification Based on Machine Learning"
+title: "Research on the Development of Wordle based on LSTM and XGBoost"
 authors:
 - Chen, D.
+- Ni, S.
+- Deng, D.
 author_notes:
-# - "Equal contribution"
-- ""
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 date: "2023-09-01T00:00:00Z"
 doi: ""
 
@@ -17,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In 2023 *IEEE 5th International Conference on Artificial Intelligence and Computer Applications (ICAICA)*, p. 22288. IEEE"
+publication: "In 2023 *2nd International Conference on Data Analytics, Computing and Artificial Intelligence (ICDACAI)*, p. 2171. IEEE"
 publication_short: ""
 
-abstract: 'Wordle is a phenomenal network game. Its appearance intensely aroused people’s attention. Although it looks tiny, the hidden information behind it is huge and meaningful. Capturing and understanding this information will help the New York Times better design and operate Wordle. In order to classify the solution words according to difficulty and determine the attributes of the given words, a model is developed. The model is used to classify the word "EERIE", and the accuracy of the classification is discussed. In this study, the average percentage distribution of unequal weights is used to quantify the number of words, which are divided into three levels: easy, medium and difficult, and then tagged. In this study, the radical support vector machine model with radial basis function kernel is used, the accuracy is 0.6556 and the F1 value is 0.6634. In addition, the classification result of EERIE is difficult. This study also found some interesting observations from the data set, one of which discussed the difference between human thinking and machine learning.'
+abstract: 'In order to predict the number of results reported on March 1, 2023, this study first selects the LSTM algorithm for model training according to the number of reports per day. LSTM is an improved recurrent neural network, which can solve the problem of long-distance dependence which can not be handled by other neural networks. In this study, the processing data of the reported scores of the model were trained and the number was predicted by iterative method until March 1 (2023). After 150 times of independent model training, the prediction interval is [20745.72 22914.74]. In addition, from the linear regression of the proportion of hard patterns and lexical attributes, this study also found that there was no correlation between the proportion of hard patterns and target words. Model II: in order to obtain the percentage distribution of specific words with a given date, seven independent XGBoost models were trained in this study. The R2 of the model is 0.68, which can be predicted accurately and the uncertainty is low. In this paper, "weird" is applied to the model, and a predicted percentage distribution is obtained, indicating that Errie should be regarded as a problematic word.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
