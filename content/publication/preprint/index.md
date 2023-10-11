@@ -1,5 +1,5 @@
 ---
-title: "Word-Level Interpretation of ChatGPT Detector Based on Classification Contribution."
+title: "Word-Level Interpretation of ChatGPT Detector Based on Classification Contribution"
 authors:
 - Chen, D
 author_notes:
