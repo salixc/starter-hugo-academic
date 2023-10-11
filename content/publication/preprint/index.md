@@ -1,7 +1,7 @@
 ---
 title: "Word-Level Interpretation of ChatGPT Detector Based on Classification Contribution."
 authors:
-- cdk
+- Chen, D
 author_notes:
 - ""
 date: "2023-04-07T00:00:00Z"
